@@ -1,0 +1,7 @@
+C:\Users\мукушева\source\repos\DP-firstLesson\DP-firstLesson\bin\Debug\DP-firstLesson.exe.config
+C:\Users\мукушева\source\repos\DP-firstLesson\DP-firstLesson\bin\Debug\DP-firstLesson.exe
+C:\Users\мукушева\source\repos\DP-firstLesson\DP-firstLesson\bin\Debug\DP-firstLesson.pdb
+C:\Users\мукушева\source\repos\DP-firstLesson\DP-firstLesson\obj\Debug\DP-firstLesson.csprojAssemblyReference.cache
+C:\Users\мукушева\source\repos\DP-firstLesson\DP-firstLesson\obj\Debug\DP-firstLesson.csproj.CoreCompileInputs.cache
+C:\Users\мукушева\source\repos\DP-firstLesson\DP-firstLesson\obj\Debug\DP-firstLesson.exe
+C:\Users\мукушева\source\repos\DP-firstLesson\DP-firstLesson\obj\Debug\DP-firstLesson.pdb
